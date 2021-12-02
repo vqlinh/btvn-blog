@@ -1,0 +1,34 @@
+.iconyourname{
+    display: inline;
+}
+.fa-user-circle{
+    font-size: 25px;
+}
+.navbar-brand{
+    margin-left: 5px;
+}
+.my-container2{
+    display: flex;
+}
+.ft1{
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+}
+.h4{
+    margin-left: 5px;
+}
+.item{
+    color: blue;
+
+}
+.test {
+    margin-top: 48px;
+}
+
+.abc p {
+    margin-left: 45%;
+}
+p{
+    text-align: justify;
+}
